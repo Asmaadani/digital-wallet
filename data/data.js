@@ -1,4 +1,4 @@
-// stockage temporaire
+
 let users = [];
 let wallets = [];
 
